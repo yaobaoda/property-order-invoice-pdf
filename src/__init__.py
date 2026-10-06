@@ -1,0 +1,1 @@
+"""Property invoice example package."""
